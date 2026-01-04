@@ -109,12 +109,12 @@ export default class Development extends Component {
             <div className="developmentUpper">
                 <div className="developmentUpperInner developmentInnerLeft">
                     <div className="tableTittle tableElement"><h2>PROFICIENT IN</h2></div>
-                    <div className="tableElement"><h3>React</h3></div>
-                    <div className="tableElement"><h3>JavaScript (EcmaScript)</h3></div>
-                    <div className="tableElement"><h3>HTML</h3></div>
-                    <div className="tableElement"><h3>CSS</h3></div>
+                    <div className="tableElement"><h3>React / Next.js</h3></div>
+                    <div className="tableElement"><h3>JavaScript / Typescript</h3></div>
                     <div className="tableElement"><h3>PHP</h3></div>
-                    <div className="tableElement"><h3>C++</h3></div>
+                    <div className="tableElement"><h3>C# / .NET</h3></div>
+                    <div className="tableElement"><h3>Blazor</h3></div>
+                    <div className="tableElement"><h3>HTML / CSS</h3></div>
                 </div>
                 <div className="developmentUpperInner developmentInnerRight">
                 </div>
